@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "img": "/image/oracle.png"
+    },
+    {
+        "id": 2,
+        "img": "/image/cisco.png"
+    },
+    {
+        "id": 3,
+        "img": "/image/sap.png"
+    }
+]
